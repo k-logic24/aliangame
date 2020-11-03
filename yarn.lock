@@ -1421,23 +1421,23 @@
 
 "@vue/reactivity@3.0.2":
   version "3.0.2"
-  resolved "https://registry.npm.taobao.org/@vue/reactivity/download/@vue/reactivity-3.0.2.tgz#42ed5af6025b494a5e69b05169fcddf04eebfe77"
-  integrity sha1-Qu1a9gJbSUpeabBRafzd8E7r/nc=
+  resolved "https://registry.yarnpkg.com/@vue/reactivity/-/reactivity-3.0.2.tgz#42ed5af6025b494a5e69b05169fcddf04eebfe77"
+  integrity sha512-GdRloNcBar4yqWGXOcba1t//j/WizwfthfPUYkjcIPHjYnA/vTEQYp0C9+ZjPdinv1WRK1BSMeN/xj31kQES4A==
   dependencies:
     "@vue/shared" "3.0.2"
 
 "@vue/runtime-core@3.0.2":
   version "3.0.2"
-  resolved "https://registry.npm.taobao.org/@vue/runtime-core/download/@vue/runtime-core-3.0.2.tgz#d7ed462af1cb0bf9836668e4e6fab3f2f4b1bc00"
-  integrity sha1-1+1GKvHLC/mDZmjk5vqz8vSxvAA=
+  resolved "https://registry.yarnpkg.com/@vue/runtime-core/-/runtime-core-3.0.2.tgz#d7ed462af1cb0bf9836668e4e6fab3f2f4b1bc00"
+  integrity sha512-3m/jOs2xSipEFah9FgpEzvC9nERFonVGLN06+pf8iYPIy54Nlv7D2cyrk3Lhbjz4w3PbIrkxJnoTJYvJM7HDfA==
   dependencies:
     "@vue/reactivity" "3.0.2"
     "@vue/shared" "3.0.2"
 
 "@vue/runtime-dom@3.0.2":
   version "3.0.2"
-  resolved "https://registry.npm.taobao.org/@vue/runtime-dom/download/@vue/runtime-dom-3.0.2.tgz#9d166d03225558025d3d80f5039b646e0051b71c"
-  integrity sha1-nRZtAyJVWAJdPYD1A5tkbgBRtxw=
+  resolved "https://registry.yarnpkg.com/@vue/runtime-dom/-/runtime-dom-3.0.2.tgz#9d166d03225558025d3d80f5039b646e0051b71c"
+  integrity sha512-vqC1KK1yWthTw1FKzajT0gYQaEqAq7bpeeXQC473nllGC5YHbJhNAJLSmrDun1tjXqGF0UNCWYljYm+++BJv6w==
   dependencies:
     "@vue/runtime-core" "3.0.2"
     "@vue/shared" "3.0.2"
@@ -3049,8 +3049,8 @@ csso@^4.0.2:
 
 csstype@^2.6.8:
   version "2.6.13"
-  resolved "https://registry.npm.taobao.org/csstype/download/csstype-2.6.13.tgz?cache=0&sync_timestamp=1603439946794&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcsstype%2Fdownload%2Fcsstype-2.6.13.tgz#a6893015b90e84dd6e85d0e3b442a1e84f2dbe0f"
-  integrity sha1-pokwFbkOhN1uhdDjtEKh6E8tvg8=
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.13.tgz#a6893015b90e84dd6e85d0e3b442a1e84f2dbe0f"
+  integrity sha512-ul26pfSQTZW8dcOnD2iiJssfXw0gdNVX9IJDH/X3K5DGPfj+fUYe3kB+swUY6BF3oZDxaID3AJt+9/ojSAE05A==
 
 cyclist@^1.0.1:
   version "1.0.1"
@@ -4284,6 +4284,11 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6
   version "4.2.4"
   resolved "https://registry.npm.taobao.org/graceful-fs/download/graceful-fs-4.2.4.tgz?cache=0&sync_timestamp=1588086905523&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fgraceful-fs%2Fdownload%2Fgraceful-fs-4.2.4.tgz#2256bde14d3632958c465ebc96dc467ca07a29fb"
   integrity sha1-Ila94U02MpWMRl68ltxGfKB6Kfs=
+
+gsap@^3.5.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/gsap/-/gsap-3.5.1.tgz#36cf76787d1758e749469d5e9cbe365c186544c4"
+  integrity sha512-EMV0RSUKZNeTUzLKAizGlwxVOUyif3/g8I3S1aA/hf3gbqwBvmQ02x1RdTBQNQMOpHCVBv9y/vaHwfctoAg8zw==
 
 gzip-size@^5.0.0:
   version "5.1.1"
@@ -8368,8 +8373,8 @@ vue-template-es2015-compiler@^1.9.0:
 
 vue@^3.0.0:
   version "3.0.2"
-  resolved "https://registry.npm.taobao.org/vue/download/vue-3.0.2.tgz?cache=0&sync_timestamp=1603226233171&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue%2Fdownload%2Fvue-3.0.2.tgz#9d5b7b2983f35e64a34d13c7c9d6831239feca3c"
-  integrity sha1-nVt7KYPzXmSjTRPHydaDEjn+yjw=
+  resolved "https://registry.yarnpkg.com/vue/-/vue-3.0.2.tgz#9d5b7b2983f35e64a34d13c7c9d6831239feca3c"
+  integrity sha512-ciKFjutKRs+2Vbvgrist1oDd5wZQqtOel/K//ku54zLbf8tcTV+XbyAfanTHcTkML9CUj09vnC+y+5uaOz2/9g==
   dependencies:
     "@vue/compiler-dom" "3.0.2"
     "@vue/runtime-dom" "3.0.2"
