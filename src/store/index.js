@@ -62,6 +62,11 @@ export default createStore({
           ? (state.uiState = 'won')
           : (state.uiState = 'lost')
       }
+    },
+    restartGame(state) {
+      state.uiState = "start"
+      state.score = 0
+      state.questionIdx = 0
     }
   },
   actions: {},
